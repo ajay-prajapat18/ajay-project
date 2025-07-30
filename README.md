@@ -1,2 +1,3 @@
 # ajay-project
-practice project
+practice python project
+
